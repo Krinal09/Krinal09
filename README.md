@@ -1,14 +1,24 @@
 <h1 align="center">Hi 👋, I'm Kkrinal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krinal09&label=Profile%20views&color=0e75b6&style=flat" alt="krinal09" /> </p>
-<img align="center" height="500" width="1000" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: nowrap; width: 100%;">
+    <img src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" style="max-width: 200px; height: auto;" alt="Image description">
+    <div style="flex-grow: 1; max-width: calc(100% - 220px);">
+        <p>🪴 I’m currently learning <b>AI/ML and Data Science.</b></p>
+        <p>📧 How to reach me: <a href="mailto:krinalgami@gmail.com">krinalgami@gmail.com</a></p>
+        <p>📝 I regularly write articles on <a href="https://medium.com/@krinalgami">https://medium.com/@krinalgami</a></p>
+        <p>😊 I always try to explore and learn something new.</p>
+        <p>🤝 I’m looking to collaborate with others on open source projects</p>
+        <p>🎯 Goals: Contribute more to Open Source projects, learn DSA, and competitive programming</p>
+        <p>🔗 Let's connect <a href="https://www.linkedin.com/in/krinal-gami-3aaa83239/">here</a>.</p>
+        <p>📧 How to reach me: <a href="mailto:krinalgami@gmail.com">krinalgami@gmail.com</a> 📧</p>
+        <p>💬 Pronouns: She/her</p>
+    </div>
+</div>
+
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krinal09" alt="krinal09" /></a> </p>
-
-- 🌱 I’m currently learning **AI/ML and Data Science.**
-
-- 📫 How to reach me: **krinalgami@gmail.com**
-
-- 📝 I regularly write articles on [https://medium.com/@krinalgami](https://medium.com/@krinalgami)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
