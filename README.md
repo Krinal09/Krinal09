@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Kkrinal</h1>
+  <h1>Hi 👋, I'm Krinal</h1>
   <p>An AI/ML and Data Science enthusiast.</p>
 </div>
 
@@ -12,28 +12,33 @@
 
 ### About Me
 
-- 🪴 I'm currently learning **AI/ML and Data Science**.
-- 🤝 I'm looking to collaborate on open-source projects.
-- 🎯 My goals are to contribute more to open source, learn DSA, and competitive programming.
-- 📝 I regularly write articles on [Medium](https://medium.com/@krinalgami).
-- 💬 Pronouns: She/her
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: nowrap; width: 100%;">
+  <img src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" style="max-width: 200px; height: auto;" alt="Animated GIF">
+  <div style="flex-grow: 1; max-width: calc(100% - 220px);">
+    <p>I'm a passionate and self-driven developer with a strong focus on **AI/ML and Data Science**. My journey is all about exploring new technologies and solving real-world problems through code.</p>
+    <p>I'm a firm believer in the power of **collaboration** and am actively looking to contribute to open-source projects. In addition to my current learning path, I'm also dedicated to mastering **Data Structures and Algorithms (DSA)** and improving my competitive programming skills.</p>
+    <p>Beyond coding, I regularly share my insights and learnings on my <a href="https://medium.com/@krinalgami">Medium blog</a>, and I'm always eager to learn something new.</p>
+    <p>Pronouns: She/her</p>
+  </div>
+</div>
 
 ---
 
 ### Let's Connect
 
-- **Email:** [krinalgami@gmail.com](mailto:krinalgami@gmail.com)
-- **LinkedIn:** [krinal-gami-3aaa83239/](https://www.linkedin.com/in/krinal-gami-3aaa83239/)
-- **Twitter:** [@gamikrinal](https://twitter.com/gamikrinal)
-- **Kaggle:** [krinalgami](https://kaggle.com/krinalgami)
-- **Instagram:** [___kinu/?hl=en](https://instagram.com/___kinu/?hl=en)
-- **Medium:** [@krinalgami](https://medium.com/@krinalgami)
+<p align="left">
+  <a href="https://twitter.com/gamikrinal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamikrinal" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/krinal-gami-3aaa83239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://kaggle.com/krinalgami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://instagram.com/___kinu/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://medium.com/@krinalgami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krinalgami" height="30" width="40" /></a>
+  <a href="mailto:krinalgami@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
 
 ---
 
 ### My Skills & Tools
 
-<div align="center">
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
@@ -59,7 +64,6 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a> 
 </p>
-</div>
 
 ---
 
