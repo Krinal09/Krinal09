@@ -3,12 +3,16 @@
   <p>An AI/ML and Data Science enthusiast.</p>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krinal09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://github-profile-trophy.vercel.app/?username=krinal09" alt="GitHub Trophies">
+</div>
+
 ---
 
 ### About Me
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: nowrap; width: 100%;">
-  <img src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" style="max-width: 200px; height: auto;" alt="Animated GIF">
   <div style="flex-grow: 1; max-width: calc(100% - 220px);">
     <p>I'm a passionate and self-driven developer with a strong focus on **AI/ML and Data Science**. My journey is all about exploring new technologies and solving real-world problems through code.</p>
     <p>I'm a firm believer in the power of **collaboration** and am actively looking to contribute to open-source projects. In addition to my current learning path, I'm also dedicated to mastering **Data Structures and Algorithms (DSA)** and improving my competitive programming skills.</p>
