@@ -3,11 +3,6 @@
   <p>An AI/ML and Data Science enthusiast.</p>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krinal09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-  <img src="https://github-profile-trophy.vercel.app/?username=krinal09" alt="GitHub Trophies">
-</div>
-
 ---
 
 ### About Me
