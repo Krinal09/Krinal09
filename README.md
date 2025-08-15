@@ -69,6 +69,5 @@
 ### GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krinal09&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krinal09&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krinal09&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
 </div>
